@@ -67,7 +67,7 @@ Managing Docker environments via GraphQL API.
 ## 📫 Get in Touch
 
 - **Email**: [lalitrajak312@gmail.com](mailto:lalitrajak312@gmail.com)
-- **GitHub**: [github.com/rajak312](https://github.com/rajak312)
+- **Portfolio**: [Lalit Rajak](https://lalit-next.vercel.app/)
 - **LinkedIn**: [Lalit Kumar Rajak](https://www.linkedin.com/in/lalit-kumar-rajak-6637b9245)
 - **GitLab**: [gitlab.com/rajak312](https://gitlab.com/rajak312)
 - **Discord**: [1177459370217439289](https://discord.com/users/1177459370217439289)
