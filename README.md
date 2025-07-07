@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with expertise in b
 ## 🔧 Tech Stack
 
 - **Frontend**: React, Next.js, Angular, Tamagui
-- **Backend**: Nest.js, Node.js, Spring Boot, GraphQL, REST APIs
+- **Backend**: Nest.js, Node.js, GraphQL, REST APIs
 - **DevOps**: Docker, Kubernetes, CI/CD
 - **Database**: MongoDB, SQL, TypeORM
-- **Other**: Keycloak (Authentication), OAuth2, TypeScript, Java, Git
+- **Other**: Keycloak (Authentication), OAuth2, TypeScript, Javascript, Git
 
 ---
 
