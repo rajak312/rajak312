@@ -49,20 +49,6 @@ Managing Docker environments via GraphQL API.
 
 ## 💼 Work Experience
 
-### FlyingFox Labs PVT LTD (July 2024 - Present)
-
-**Full Stack Developer**
-
-- Building full stack solutions with TypeScript, React, Next.js, Nest.js, and Docker.
-- Developed end-to-end applications, integrating modern frontend frameworks with secure backend APIs.
-
-### Naresh Institute of Technology (March 2022 - November 2022)
-
-**Trainee**
-
-- Completed a comprehensive training program in web development technologies, gaining hands-on experience in both frontend and backend development.
-
----
 
 ## 📫 Get in Touch
 
